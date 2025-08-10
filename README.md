@@ -22,8 +22,7 @@ Mass gatherings pose a high risk of uncontrolled pedestrian flow and stampede-li
 Group53_CrowdFlowAI/
 ├── videos/                    # Folder to place input video files (01.mp4 to 20.mp4)
 ├── output_videos/            # Auto-generated folder for saving output videos with tracking
-├── models/
-│   └── head_medium.pt        # YOLOv8 model weights for head detection
+├── head_medium.pt             # YOLOv8 model weights for head detection
 ├── head_detection.ipynb      # Jupyter notebook for entire pipeline
 ├── tracking_log.csv          #  CSV log for detections and  tracking
 ├── requirements.txt          # Python dependencies
