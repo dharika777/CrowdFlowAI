@@ -1,0 +1,7 @@
+ultralytics
+deep_sort_realtime
+opencv-python-headless
+torch
+torchvision
+matplotlib
+pandas
